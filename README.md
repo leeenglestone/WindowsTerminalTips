@@ -1,1 +1,1 @@
-# WindowsTerminalTips
+# WindowsTerminalTips.com
