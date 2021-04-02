@@ -1,1 +1,9 @@
 body { font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; }
+
+kbd {
+    padding:.2rem .4rem;
+    font-size: 87.5%;
+    color: #fff;
+    background-color: #212529;
+    border-radius: .2rem;
+  }
